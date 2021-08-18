@@ -10,9 +10,9 @@ function AboutMe() {
         the UNH Bootcamp in Southern New Hampshire. I've had a passion for
         creating all kinds of content over the years and have always had
         interest in making functional websites for small businesses, bands, and
-        more. If you would like to see my work or contact me personally,there
-        will be links at the bottom of the page hosting my github link, linkdn
-        profile, my email and phone number.
+        more. If you would like to check out my project portfolio, my contact
+        and resume, use the links from navbar above and it will take you to each
+        desired page.
       </p>
     </div>
   );

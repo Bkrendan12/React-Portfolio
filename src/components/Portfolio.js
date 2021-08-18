@@ -32,7 +32,6 @@ function Portfolio() {
       activeLink: "https://note-taker-bk.herokuapp.com/",
       repoLink: "https://github.com/Bkrendan12/Express-Note-Taker",
     },
-    { imageLink: "", activeLink: "heroku link", repoLink: "" },
   ];
   return (
     <div className="portfolio">
