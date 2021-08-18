@@ -6,7 +6,7 @@ function Header({ page, setpage }) {
   };
   return (
     <header>
-      <h1>Brendan</h1>
+      <h1>Brendan Kurylo</h1>
       <nav>
         <div
           className={`${page === "about me" ? "highlight" : ""}`}
