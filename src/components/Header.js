@@ -9,6 +9,7 @@ function Header({ page, setpage }) {
       <h1>Brendan</h1>
       <nav>
         <div
+          className={`${page === "about me" ? "highlight" : ""}`}
           onClick={() => {
             updatePage("about me");
           }}
@@ -16,6 +17,7 @@ function Header({ page, setpage }) {
           about me
         </div>
         <div
+          className={`${page === "portfolio" ? "highlight" : ""}`}
           onClick={() => {
             updatePage("portfolio");
           }}
@@ -23,6 +25,7 @@ function Header({ page, setpage }) {
           portfolio
         </div>
         <div
+          className={`${page === "contact" ? "highlight" : ""}`}
           onClick={() => {
             updatePage("contact");
           }}
@@ -30,6 +33,7 @@ function Header({ page, setpage }) {
           contact
         </div>
         <div
+          className={`${page === "resume" ? "highlight" : ""}`}
           onClick={() => {
             updatePage("resume");
           }}

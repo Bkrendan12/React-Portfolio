@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Header setpage={setpage} page={page} />
-      <Content page={page}  />
+      <Content page={page} />
       <Footer />
     </div>
   );
