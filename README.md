@@ -4,7 +4,7 @@
 
 shows the web application's appearance and functionality:
 
-![.gif](./src/assets/demonstration.gif)
+![.gif](./src/assets/GIF.gif)
 
 ## Link to project repository:
 
