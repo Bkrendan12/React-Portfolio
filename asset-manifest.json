@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44fd9f97.chunk.css",
+    "main.js": "/static/js/main.498a5b57.chunk.js",
+    "main.js.map": "/static/js/main.498a5b57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53f30350.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53f30350.js.map",
+    "static/js/2.fbe62c35.chunk.js": "/static/js/2.fbe62c35.chunk.js",
+    "static/js/2.fbe62c35.chunk.js.map": "/static/js/2.fbe62c35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.44fd9f97.chunk.css.map": "/static/css/main.44fd9f97.chunk.css.map",
+    "static/js/2.fbe62c35.chunk.js.LICENSE.txt": "/static/js/2.fbe62c35.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/background.7b82af75.jpg",
+    "static/media/budget.c0ff7d2c.png": "/static/media/budget.c0ff7d2c.png",
+    "static/media/genre.5e80f337.png": "/static/media/genre.5e80f337.png",
+    "static/media/linkedin.77bf23e4.png": "/static/media/linkedin.77bf23e4.png",
+    "static/media/myFace.f8bc0075.png": "/static/media/myFace.f8bc0075.png",
+    "static/media/stackoverflow.fd3ced25.png": "/static/media/stackoverflow.fd3ced25.png",
+    "static/media/subTracker.207b1822.png": "/static/media/subTracker.207b1822.png",
+    "static/media/updatedResume.9f86f7b5.pdf": "/static/media/updatedResume.9f86f7b5.pdf",
+    "static/media/workout.d66c41c5.png": "/static/media/workout.d66c41c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53f30350.js",
+    "static/js/2.fbe62c35.chunk.js",
+    "static/css/main.44fd9f97.chunk.css",
+    "static/js/main.498a5b57.chunk.js"
+  ]
+}
