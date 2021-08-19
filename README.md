@@ -36,21 +36,11 @@ For each project that is featured in your portfolio, include the following:
 
 - GitHub repository contains application code.
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-- The URL of the functional, deployed application.
-
-- The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-## Link to project repository:
+## Link to project repository / functional, deployed Application:
 
 [Github-Repo](https://github.com/Bkrendan12/React-Portfolio)
+
+[Live Application](https://bkrendan12.github.io/React-Portfolio/)
 
 ## Tech Used
 
