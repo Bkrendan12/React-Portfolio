@@ -89,14 +89,20 @@ form p {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 35px;
+  font-size: 15px;
   font-weight: bolder;
   margin-top: 40px;
+  padding: 15px;
 }
 
 .resume a {
   text-decoration: none;
 }
+
+.resumeText {
+  font-size: 35px;
+}
+
 .footer {
   display: flex;
   background-color: bisque;
