@@ -17,7 +17,7 @@ function Contact() {
     return re.test(String(email).toLowerCase());
   }
   return (
-    <div>
+    <div className="contactText">
       <form>
         <p>Enter your name:</p>
         <input

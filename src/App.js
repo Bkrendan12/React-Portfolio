@@ -6,7 +6,7 @@ import Header from "./components/Header";
 function App() {
   const [page, setpage] = useState("about me");
   return (
-    <div>
+    <div className="background">
       <Header setpage={setpage} page={page} />
       <Content page={page} />
       <Footer />
