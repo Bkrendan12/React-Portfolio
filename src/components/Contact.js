@@ -18,6 +18,7 @@ function Contact() {
   }
   return (
     <div className="contactText">
+      <h1>Contact Me</h1>
       <form>
         <p>Enter your name:</p>
         <input

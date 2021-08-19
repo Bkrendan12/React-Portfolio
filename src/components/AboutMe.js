@@ -4,6 +4,7 @@ import ProfilePic from "../assets/myFace.png";
 function AboutMe() {
   return (
     <div className="about">
+      <h1>About me</h1>
       <img className="me" src={ProfilePic} alt="my face" />
       <p>
         My name is Brendan and I am currently a junior web developer attending

@@ -65,6 +65,10 @@ header {
   background-color: antiquewhite;
 }
 
+.portfolio h3 {
+  text-align: center;
+}
+
 nav > div {
   cursor: pointer;
 }
@@ -103,6 +107,10 @@ form p {
 .contactText p {
   background-color: bisque;
   padding: 5px;
+}
+
+.contactText h1 {
+  text-align: center;
 }
 
 .footer {
